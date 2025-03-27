@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-aptech&label=Profile%20views&color=0e75b6&style=flat" alt="md-aptech" /> </p>
 
-- 🔭 I’m currently working as .Net Developer **Technocom Development**
+- 🔭 I’m currently working as .Net Developer at **Technocom Development**
 
 - 🌱 I’m currently learning **ADSE - Advance Diploma in Software Engineering**
 
