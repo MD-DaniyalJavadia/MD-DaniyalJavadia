@@ -19,7 +19,7 @@
 ---
 
 ### 🔭 **Currently**
-- Working as **.NET Developer** at [Technocom Development]()
+- Working as **.NET Developer** at Technocom Development
 - Pursuing **ADSE - Advanced Diploma in Software Engineering**
 
 ---
@@ -46,7 +46,7 @@
 
 ### 🌍 **Deployment Platforms**
 
-<img alt="Github Pages" width="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" /> ![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages)  
+![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages)  
 ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&logoColor=00C7B7)  
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
 
@@ -63,15 +63,6 @@
 
 ### 👨‍💻 **Portfolio**
 🔗 [daniyal-works-portfolio.vercel.app](https://daniyal-works-portfolio.vercel.app/)
-
----
-
-### 📊 **GitHub Stats**
-<p align="center">
-  <img alt="GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=DaniyalJavadia&show_icons=true&theme=dark" />
-  <img alt="Top Languages" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalJavadia&layout=compact&theme=dark" />
-</p>
-
 <p align="center">
   <img alt="Coding GIF" width="320px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
