@@ -1,30 +1,77 @@
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Daniyal%20Javadia-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/daniyal-javadia-849aa832a/)
+[![Mail](https://img.shields.io/badge/Mail-daniyaljavadiaworks@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:daniyaljavadiaworks@gmail.com)
 
 <!-- Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Daniyal+Javadia;Passionate+Web+Developer;Learning+Advanced+Web+Development;Open+Source+Contributor+🚀" alt="Typing Animation">
 </p>
 
-<!-- <h1 align="center">Hi 👋, I'm Daniyal Javadia</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3> -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-aptech&label=Profile%20views&color=0e75b6&style=flat" alt="md-aptech" /> </p>
-
-- 🔭 I’m currently working as .Net Developer at **Technocom Development**
-
-- 🌱 I’m currently learning **ADSE - Advance Diploma in Software Engineering**
-
-- 👨‍💻 You can check out all my projects on my [Portfolio](https://daniyal-works-portfolio.vercel.app/)
-
-- 📫 Feel free to contact me via Emai [Email](daniyaljavadiaworks@gmail.com)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/daniyal-javadia-849aa832a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniyal-javadia-849aa832a/" height="30" width="40" /></a>
+<p align="center">
+   🚀 Passionate about technology and continuous learning, I am a self-taught software developer with a strong foundation in web development.<br>
+   I specialize in building web scripts, static websites, and full-stack applications, constantly exploring modern tools and technologies.<br>
+   Currently pursuing my studies, I have evolved into a Full Stack JavaScript developer while also working with PHP and ASP.NET Core.<br>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<p align="center">
+   <strong>RESPONSIVE WEB DEVELOPER | PHP DEVELOPER | FULL STACK WEB DEVELOPER | ASP.NET CORE DEVELOPER</strong>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-aptech&show_icons=true&locale=en" alt="md-aptech" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-aptech&" alt="md-aptech" /></p>
+### 🔭 **Currently**
+- Working as **.NET Developer** at [Technocom Development]()
+- Pursuing **ADSE - Advanced Diploma in Software Engineering**
+
+---
+
+### 💻 **Languages and Tools** 🛠️
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jquery&logoColor=0769AD)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=FF2D20)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql&logoColor=4169E1)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-000000?style=flat&logo=.net&logoColor=512BD4)
+![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart&logoColor=0175C2)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=F24E1E)
+
+---
+
+### 🌍 **Deployment Platforms**
+
+<img alt="Github Pages" width="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" /> ![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages)  
+![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&logoColor=00C7B7)  
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
+
+---
+
+### 🤓 **Currently Exploring**
+
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-000000?style=flat&logo=.net&logoColor=512BD4)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=FF2D20)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoColor=777BB4)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql&logoColor=4169E1)
+
+---
+
+### 👨‍💻 **Portfolio**
+🔗 [daniyal-works-portfolio.vercel.app](https://daniyal-works-portfolio.vercel.app/)
+
+---
+
+### 📊 **GitHub Stats**
+<p align="center">
+  <img alt="GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=DaniyalJavadia&show_icons=true&theme=dark" />
+  <img alt="Top Languages" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalJavadia&layout=compact&theme=dark" />
+</p>
+
+<p align="center">
+  <img alt="Coding GIF" width="320px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+</p>
