@@ -1,4 +1,4 @@
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Daniyal%20Javadia-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/daniyal-javadia-849aa832a/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Daniyal%20Javadia-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/daniyal-javadia-a8b941379/)
 [![Mail](https://img.shields.io/badge/Mail-daniyaljavadiaworks@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:daniyaljavadiaworks@gmail.com)
 
 <!-- Typing Effect -->
