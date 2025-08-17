@@ -1,9 +1,6 @@
 
-<p align="center" style="font-family: 'Brush Script MT', cursive, sans-serif; font-size: 28px; color: #black; line-height: 1.6;">
-  Hi There! I'm Daniyal Javadia<br>
-  Passionate Web Developer<br>
-  Learning Advanced Web Development<br>
-  Open Source Contributor 🚀
+<p align="center">
+  <img src="assets/banner.png" alt="Daniyal Javadia Banner" />
 </p>
 
 
